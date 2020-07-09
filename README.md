@@ -9,10 +9,10 @@ Today I Learnd
 - Clone-Velog
   - [1주차 진행](https://github.com/JJungwoo/TIL/blob/master/ToyProject/clone-velog/1%EC%A3%BC%EC%B0%A8_%EC%A7%84%ED%96%89.md)
   - [2주차 진행](https://github.com/JJungwoo/TIL/blob/master/ToyProject/clone-velog/2%EC%A3%BC%EC%B0%A8_%EC%A7%84%ED%96%89.md)
-  - [3주차 진행]
+  - [3주차 진행](https://github.com/JJungwoo/TIL/blob/master/ToyProject/clone-velog/3%EC%A3%BC%EC%B0%A8_%EC%A7%84%ED%96%89.md)
 
 - TCProject
-  - [설명 및 진행 사항]
+  - [설명 및 진행 사항](https://github.com/JJungwoo/TIL/blob/master/ToyProject/TCProject/README.md)
 
 ## Tech Interview
 - [2020-06-17 자료구조/알고리즘](https://github.com/JJungwoo/TIL/blob/master/TechInterview/study/2020-06-17.md)
